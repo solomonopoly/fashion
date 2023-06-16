@@ -1,0 +1,1226 @@
+HTML:
+<nav class="nav nav--left js-nav">
+  <ul>
+    <li>
+      <a href="#"><span></span></a>
+    </li>
+    <li>
+      <a href="#"><span></span></a>
+    </li>
+    <li>
+      <a href="#" class="is-active"><span></span></a>
+    </li>
+  </ul>
+</nav>
+
+<figure class="logo">
+  <img src="https://raw.githubusercontent.com/solomonopoly/fashion/main/6080-Logo-%20Queen%20Mode-Va%CC%82n%20Quy%CC%80nh-02%20(1).png">
+</figure>
+
+<nav class="nav nav--right">
+  <ul>
+    <li>
+      <a href="https://twitter.com/Jesper_Landberg?lang=en" target="_blank"><span></span></a>
+    </li>
+    <li>
+      <a href="#">
+        <span></span>
+        <div class="cart-total">0</div>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<div class="slider js-slider">
+  <div class="slider__inner js-slider__inner"></div>
+  
+  <div class="slide js-slide">
+    <div class="slide__content">
+      <figure class="slide__img js-slide__img">
+        <img src="https://static01.nyt.com/images/2011/05/03/fashion/03iht-fmet03-inline3/03iht-fmet03-inline3-jumbo.jpg">
+      </figure>
+       <figure class="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/8.jpg">
+      </figure>
+    </div>
+    
+    <div class="slider__text js-slider__text">
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div>QUEEN</div></div>
+      <div class="slider__text-line js-slider__text-line"><div>MODE.</div></div>
+    </div>
+    
+  </div>
+  
+  <div class="slide js-slide">
+    <div class="slide__content">
+      <figure class="slide__img js-slide__img">
+        <img src="https://static01.nyt.com/images/2011/05/03/fashion/03iht-fmet03-inline1/03iht-fmet03-inline1-jumbo.jpg">
+      </figure>
+       <figure class="slide__img js-slide__img">
+        <img src="https://blog.metmuseum.org/alexandermcqueen/images/12.McQueenSp2007SarabandeFlowers.EL.jpg">
+      </figure>
+    </div>
+    
+    <div class="slider__text js-slider__text">
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div>REDEFINING</div></div>
+      <div class="slider__text-line js-slider__text-line"><div>THE CLASSICS.</div></div>
+    </div>
+  </div>
+  
+  <div class="slide js-slide">
+    <div class="slide__content">
+      <figure class="slide__img js-slide__img">
+        <img src="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/5.jpg">
+      </figure>
+       <figure class="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/9.jpg">
+      </figure>
+    </div>
+    <div class="slider__text js-slider__text">
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div>LIMITED</div></div>
+      <div class="slider__text-line js-slider__text-line"><div>EDITION.</div></div>
+    </div>
+  </div>
+
+
+  <div class="slide js-slide">
+    <div class="slide__content">
+      <figure class="slide__img js-slide__img">
+        <img src="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/5.jpg">
+      </figure>
+       <figure class="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/9.jpg">
+      </figure>
+    </div>
+    <div class="slider__text js-slider__text">
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div>ART</div></div>
+      <div class="slider__text-line js-slider__text-line"><div>UNLEASHED.</div></div>
+    </div>
+    <div class="slide js-slide">
+    <div class="slide__content">
+      <figure class="slide__img js-slide__img">
+        <img src="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/5.jpg">
+      </figure>
+       <figure class="slide__img js-slide__img">
+        <img src="https://www.ldnfashion.com/wp-content/uploads/2013/02/9.jpg">
+      </figure>
+    </div>
+<div id="three-container"></div>
+
+    <div class="slider__text js-slider__text">
+
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div></div></div>
+      <div class="slider__text-line js-slider__text-line"><div>ART</div></div>
+    </div>
+  </div>
+  </div>
+  
+  
+  
+  <nav class="slider__nav js-slider__nav">
+    <div class="slider-bullet js-slider-bullet">
+      <span class="slider-bullet__text js-slider-bullet__text">Ω</span>
+      <span class="slider-bullet__line js-slider-bullet__line"></span>
+    </div>
+     <div class="slider-bullet js-slider-bullet">
+      <span class="slider-bullet__text js-slider-bullet__text">Θ</span>
+      <span class="slider-bullet__line js-slider-bullet__line"></span>
+    </div>
+     <div class="slider-bullet js-slider-bullet">
+      <span class="slider-bullet__text js-slider-bullet__text">Φ</span>
+      <span class="slider-bullet__line js-slider-bullet__line"></span>
+       <div class="slider-bullet js-slider-bullet">
+      <span class="slider-bullet__text js-slider-bullet__text">Φ</span>
+      <span class="slider-bullet__line js-slider-bullet__line"></span>
+         <div class="slider-bullet js-slider-bullet">
+      <span class="slider-bullet__text js-slider-bullet__text">Φ</span>
+      <span class="slider-bullet__line js-slider-bullet__line"></span>
+
+    </div>
+
+  </nav>
+  
+  <div class="scroll js-scroll"> </div>
+  
+</div>
+
+<div class="vert-text">
+  <span>
+11.11.22  </span>
+</div>
+
+
+SCSS:
+html{
+  font-size: 16px;
+}
+
+html, body{
+  height: 100%;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111;
+  font-family: 'helvetica neue', helvetica, sans-serif;
+  overflow: hidden;
+}
+
+a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.scroll{
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(#fff, 0.5);
+  font-family: 'font-2';
+  font-size: calc(0.5rem + 0.35vw);
+  z-index: 10;
+}
+
+.logo{
+  position: absolute;
+  top: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0;
+  margin: 0;
+  z-index: 10;
+  
+  img{
+    display: block;
+    height: 1rem;
+    width: auto;
+  }
+}
+
+ul, li{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav{
+  position: absolute;
+  top: 2rem;
+  z-index: 10;
+  
+  &--left{
+    left: 1rem;
+  }
+  
+  &--right{
+    right: 1rem;
+  }
+  
+  ul{
+    display: flex;
+    align-items: center;
+    height: 1rem;
+  }
+  
+  li{
+    display: block;
+    margin: 0 1rem;
+    padding: 0;
+  }
+  
+  a{
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-size: calc(0.5rem + 0.35vw);
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    
+    span{
+      position: relative;
+      
+      &:before{
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -0.35rem;
+        width: 100%;
+        height: 1px;
+        background-color: rgba(#fff, 0.25);
+        transition: transform .75s ease;
+        transform-origin: right;
+        transform: scaleX(0);
+      }
+    }
+    
+    &:hover,
+    &.is-active {
+
+      span{
+        
+        &:before{
+          transform: scaleX(1);
+          transform-origin: left;
+        }
+      }
+    }
+  }
+}
+
+.vert-text{
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  width: 15rem;
+  display: flex;
+  align-items: center;
+  z-index: 10;
+  
+  span{
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1.1;
+    transform: rotate(-90deg) translateY(15rem);
+    transform-origin: bottom left;
+    font-size: 1.35rem;
+  }
+}
+
+.cart-total{
+  display: block;
+  height: 2rem;
+  width: 2rem;
+  background-color: rgba(#fff, 0.25);
+  border-radius: 50%;
+  text-align: center;
+  line-height: 2rem;
+  margin-left: 1rem;
+}
+
+.slider{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  
+  &__text{
+    position: absolute;
+    bottom: calc(2rem + 3vw);
+    left: calc(2rem + 3vw);
+    z-index: 10;
+    font-size: calc(1rem + 4vw);
+    text-transform: uppercase;
+    transform-origin: top;
+    line-height: 1.075;
+    color: #fff;
+    font-weight: 500;
+    
+    &-line{
+      overflow: hidden;
+    }
+  }
+  
+  &__inner{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  &__nav{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+  
+  &-bullet{
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    
+    &__text{
+      color: #fff;
+      font-size: 0.65rem;
+      margin-right: 1rem;
+    }
+    
+    &__line{
+      background-color: #fff;
+      height: 1px;
+      width: 1rem;
+    }
+  }
+  
+  canvas{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+.slide{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  
+  &__content{  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  &__img{
+    position: relative;
+    width: 25vw;
+    height: 70vh;
+    padding: 0;
+    margin: 0;
+    min-width: 12.5rem;
+    transform-origin: top;
+    
+    &:first-child{
+      top: -1.5rem;
+    }
+    
+    &:last-child{
+      bottom: -1.5rem;
+    }
+    
+    img{
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+BabelJS:
+// Dependancies include 'https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js' and 'https://cdnjs.cloudflare.com/ajax/libs/three.js/99/three.min.js'
+
+class Slider {
+  constructor() {
+    this.bindAll()
+    
+    this.vert = `
+    varying vec2 vUv;
+    void main() {
+      vUv = uv;
+      gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+    }
+    `
+
+    this.frag = `
+    varying vec2 vUv;
+
+    uniform sampler2D texture1;
+    uniform sampler2D texture2;
+    uniform sampler2D disp;
+
+    uniform float dispPower;
+    uniform float intensity;
+
+    uniform vec2 size;
+    uniform vec2 res;
+
+    vec2 backgroundCoverUv( vec2 screenSize, vec2 imageSize, vec2 uv ) {
+      float screenRatio = screenSize.x / screenSize.y;
+      float imageRatio = imageSize.x / imageSize.y;
+      vec2 newSize = screenRatio < imageRatio 
+          ? vec2(imageSize.x * (screenSize.y / imageSize.y), screenSize.y)
+          : vec2(screenSize.x, imageSize.y * (screenSize.x / imageSize.x));
+      vec2 newOffset = (screenRatio < imageRatio 
+          ? vec2((newSize.x - screenSize.x) / 2.0, 0.0) 
+          : vec2(0.0, (newSize.y - screenSize.y) / 2.0)) / newSize;
+      return uv * screenSize / newSize + newOffset;
+    }
+
+    void main() {
+      vec2 uv = vUv;
+      
+      vec4 disp = texture2D(disp, uv);
+      vec2 dispVec = vec2(disp.x, disp.y);
+      
+      vec2 distPos1 = uv + (dispVec * intensity * dispPower);
+      vec2 distPos2 = uv + (dispVec * -(intensity * (1.0 - dispPower)));
+      
+      vec4 _texture1 = texture2D(texture1, distPos1);
+      vec4 _texture2 = texture2D(texture2, distPos2);
+      
+      gl_FragColor = mix(_texture1, _texture2, dispPower);
+    }
+    `
+    
+    this.el = document.querySelector('.js-slider')
+    this.inner = this.el.querySelector('.js-slider__inner')
+    this.slides = [...this.el.querySelectorAll('.js-slide')]
+    this.bullets = [...this.el.querySelectorAll('.js-slider-bullet')]
+    
+    this.renderer = null
+    this.scene = null
+    this.clock = null
+    this.camera = null
+    
+    this.images = [
+      'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg1.jpg',
+      'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg2.jpg',
+      'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg3.jpg',
+      'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg2.jpg',
+        'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg3.jpg']
+    
+    this.data = {
+      current: 0,
+      next: 1,
+      total: this.images.length - 1,
+      delta: 0
+    }
+    
+    this.state = {
+      animating: false,
+      text: false,
+      initial: true
+    }
+    
+    this.textures = null
+    
+    this.init()
+  }
+  
+  bindAll() {
+    ['render', 'nextSlide']
+    .forEach(fn => this[fn] = this[fn].bind(this))
+  }
+  
+  setStyles() {
+    this.slides.forEach((slide, index) => {
+      if (index === 0) return
+      
+      TweenMax.set(slide, { autoAlpha: 0 })
+    })
+    
+    this.bullets.forEach((bullet, index) => {
+      if (index === 0) return
+      
+      const txt = bullet.querySelector('.js-slider-bullet__text')
+      const line = bullet.querySelector('.js-slider-bullet__line')
+      
+      TweenMax.set(txt, {
+        alpha: 0.25
+      })
+      TweenMax.set(line, {
+        scaleX: 0,
+        transformOrigin: 'left'
+      })
+    })
+  }
+  
+  cameraSetup() {
+    this.camera = new THREE.OrthographicCamera(
+      this.el.offsetWidth / -2,
+      this.el.offsetWidth / 2,
+      this.el.offsetHeight / 2,
+      this.el.offsetHeight / -2,
+      1,
+      1000
+    )
+
+    this.camera.lookAt(this.scene.position)
+    this.camera.position.z = 1
+  }
+
+  setup() {
+    this.scene = new THREE.Scene()
+    this.clock = new THREE.Clock(true)
+    
+    this.renderer = new THREE.WebGLRenderer({ alpha: true })
+    this.renderer.setPixelRatio(window.devicePixelRatio)
+    this.renderer.setSize(this.el.offsetWidth, this.el.offsetHeight)
+    
+    this.inner.appendChild(this.renderer.domElement)
+  }
+  
+  loadTextures() {
+    const loader = new THREE.TextureLoader()
+    loader.crossOrigin = ''
+    
+    this.textures = []
+    this.images.forEach((image, index) => {
+      const texture = loader.load(image + '?v=' + Date.now(), this.render)
+      
+      texture.minFilter = THREE.LinearFilter
+      texture.generateMipmaps = false
+      
+      if (index === 0 && this.mat) {
+        this.mat.uniforms.size.value = [
+          texture.image.naturalWidth,
+          texture.image.naturalHeight
+        ]
+      }
+
+      this.textures.push(texture)
+    })
+    
+    this.disp = loader.load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/rock-_disp.png', this.render)
+    this.disp.magFilter = this.disp.minFilter = THREE.LinearFilter
+    this.disp.wrapS = this.disp.wrapT = THREE.RepeatWrapping
+  }
+  
+  createMesh() {
+    this.mat = new THREE.ShaderMaterial( {
+      uniforms: {
+        dispPower: { type: 'f', value: 0.0 },
+        intensity: { type: 'f', value: 0.5 },
+        res: { value: new THREE.Vector2(window.innerWidth, window.innerHeight) },
+        size: { value: new THREE.Vector2(1, 1) },
+        texture1: { type: 't', value: this.textures[0] },
+        texture2: { type: 't', value: this.textures[1] },
+        disp: { type: 't', value: this.disp }
+      },
+      transparent: true,
+      vertexShader: this.vert,
+      fragmentShader: this.frag
+    })
+
+    const geometry = new THREE.PlaneBufferGeometry(
+      this.el.offsetWidth, 
+      this.el.offsetHeight, 
+      1
+    )
+    
+    const mesh = new THREE.Mesh(geometry, this.mat)
+
+    this.scene.add(mesh)    
+  }
+  
+  transitionNext() {
+    TweenMax.to(this.mat.uniforms.dispPower, 2.5, {
+      value: 1,
+      ease: Expo.easeInOut,
+      onUpdate: this.render,
+      onComplete: () => {
+        this.mat.uniforms.dispPower.value = 0.0
+        this.changeTexture()
+        this.render.bind(this)
+        this.state.animating = false
+      }
+    })
+    
+    const current = this.slides[this.data.current]
+    const next = this.slides[this.data.next]
+    
+    const currentImages = current.querySelectorAll('.js-slide__img')
+    const nextImages = next.querySelectorAll('.js-slide__img')
+    
+    const currentText = current.querySelectorAll('.js-slider__text-line div')
+    const nextText = next.querySelectorAll('.js-slider__text-line div')
+    
+    const currentBullet = this.bullets[this.data.current]
+    const nextBullet = this.bullets[this.data.next]
+    
+    const currentBulletTxt = currentBullet.querySelectorAll('.js-slider-bullet__text')
+    const nextBulletTxt = nextBullet.querySelectorAll('.js-slider-bullet__text')
+    
+    const currentBulletLine = currentBullet.querySelectorAll('.js-slider-bullet__line')
+    const nextBulletLine = nextBullet.querySelectorAll('.js-slider-bullet__line')
+    
+    const tl = new TimelineMax({ paused: true })
+    
+    if (this.state.initial) {
+      TweenMax.to('.js-scroll', 1.5, {
+        yPercent: 100,
+        alpha: 0,
+        ease: Power4.easeInOut
+      })
+      
+      this.state.initial = false
+    }
+    
+    tl
+    .staggerFromTo(currentImages, 1.5, {
+      yPercent: 0,
+      scale: 1
+    }, {
+      yPercent: -185,
+      scaleY: 1.5,
+      ease: Expo.easeInOut
+    }, 0.075)
+    .to(currentBulletTxt, 1.5, {
+      alpha: 0.25,
+      ease: Linear.easeNone
+    }, 0)
+    .set(currentBulletLine, {
+      transformOrigin: 'right'
+    }, 0)
+    .to(currentBulletLine, 1.5, {
+      scaleX: 0,
+      ease: Expo.easeInOut
+    }, 0)
+    
+    if (currentText) {
+      tl
+      .fromTo(currentText, 2, {
+        yPercent: 0
+      }, {
+        yPercent: -100,
+        ease: Power4.easeInOut
+      }, 0)  
+    }
+    
+    tl
+    .set(current, {
+      autoAlpha: 0
+    })
+    .set(next, {
+      autoAlpha: 1
+    }, 1)
+    
+    if (nextText) {
+      tl
+      .fromTo(nextText, 2, {
+        yPercent: 100
+      }, {
+        yPercent: 0,
+        ease: Power4.easeOut
+      }, 1.5)  
+    }
+    
+    tl
+    .staggerFromTo(nextImages, 1.5, {
+      yPercent: 150,
+      scaleY: 1.5
+    }, {
+      yPercent: 0,
+      scaleY: 1,
+      ease: Expo.easeInOut
+    }, 0.075, 1)
+    .to(nextBulletTxt, 1.5, {
+      alpha: 1,
+      ease: Linear.easeNone
+    }, 1)
+    .set(nextBulletLine, {
+      transformOrigin: 'left'
+    }, 1)
+    .to(nextBulletLine, 1.5, {
+      scaleX: 1,
+      ease: Expo.easeInOut
+    }, 1)
+    
+    tl.play()
+  }
+  
+  prevSlide() {
+    
+  }
+  
+  nextSlide() {
+    if (this.state.animating) return
+    
+    this.state.animating = true
+    
+    this.transitionNext()
+    
+    this.data.current = this.data.current === this.data.total ? 0 : this.data.current + 1
+    this.data.next = this.data.current === this.data.total ? 0 : this.data.current + 1
+  }
+  
+  changeTexture() {
+    this.mat.uniforms.texture1.value = this.textures[this.data.current]
+    this.mat.uniforms.texture2.value = this.textures[this.data.next]
+  }
+ 
+  listeners() {
+    window.addEventListener('wheel', this.nextSlide, { passive: true })
+  }
+  
+  render() {
+    this.renderer.render(this.scene, this.camera)
+  }
+  
+  init() {
+    this.setup()
+    this.cameraSetup()
+    this.loadTextures()
+    this.createMesh()
+    this.setStyles()
+    this.render()
+    this.listeners()
+  }
+}
+
+// Toggle active link
+const links = document.querySelectorAll('.js-nav a')
+
+links.forEach(link => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault()
+    links.forEach(other => other.classList.remove('is-active'))
+    link.classList.add('is-active')
+  })
+})
+
+// Init classes
+const slider = new Slider()
+
+window.onload = init;
+console.ward = function() {}; // what warnings?
+
+function init() {
+  var root = new THREERoot({
+    createCameraControls: !true,
+    antialias: (window.devicePixelRatio === 1),
+    fov: 80
+  });
+
+  root.renderer.setClearColor(0x000000, 0);
+  root.renderer.setPixelRatio(window.devicePixelRatio || 1);
+  root.camera.position.set(0, 0, 60);
+
+  var width = 100;
+  var height = 60;
+
+  var slide = new Slide(width, height, 'out');
+	var l1 = new THREE.ImageLoader();
+	l1.setCrossOrigin('Anonymous');
+	l1.load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/winter.jpg', function(img) {
+	  slide.setImage(img);
+	})
+  root.scene.add(slide);
+
+  var slide2 = new Slide(width, height, 'in');
+  var l2 = new THREE.ImageLoader();
+	l2.setCrossOrigin('Anonymous');
+	l2.load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/spring.jpg', function(img) {
+		slide2.setImage(img);
+	})
+	
+  root.scene.add(slide2);
+
+  var tl = new TimelineMax({repeat:-1, repeatDelay:1.0, yoyo: true});
+
+  tl.add(slide.transition(), 0);
+  tl.add(slide2.transition(), 0);
+
+  createTweenScrubber(tl);
+
+  window.addEventListener('keyup', function(e) {
+    if (e.keyCode === 80) {
+      tl.paused(!tl.paused());
+    }
+  });
+}
+
+////////////////////
+// CLASSES
+////////////////////
+
+function Slide(width, height, animationPhase) {
+  var plane = new THREE.PlaneGeometry(width, height, width * 2, height * 2);
+
+  THREE.BAS.Utils.separateFaces(plane);
+
+  var geometry = new SlideGeometry(plane);
+
+  geometry.bufferUVs();
+
+  var aAnimation = geometry.createAttribute('aAnimation', 2);
+  var aStartPosition = geometry.createAttribute('aStartPosition', 3);
+  var aControl0 = geometry.createAttribute('aControl0', 3);
+  var aControl1 = geometry.createAttribute('aControl1', 3);
+  var aEndPosition = geometry.createAttribute('aEndPosition', 3);
+
+  var i, i2, i3, i4, v;
+
+  var minDuration = 0.8;
+  var maxDuration = 1.2;
+  var maxDelayX = 0.9;
+  var maxDelayY = 0.125;
+  var stretch = 0.11;
+
+  this.totalDuration = maxDuration + maxDelayX + maxDelayY + stretch;
+
+  var startPosition = new THREE.Vector3();
+  var control0 = new THREE.Vector3();
+  var control1 = new THREE.Vector3();
+  var endPosition = new THREE.Vector3();
+
+  var tempPoint = new THREE.Vector3();
+
+  function getControlPoint0(centroid) {
+    var signY = Math.sign(centroid.y);
+
+    tempPoint.x = THREE.Math.randFloat(0.1, 0.3) * 50;
+    tempPoint.y = signY * THREE.Math.randFloat(0.1, 0.3) * 70;
+    tempPoint.z = THREE.Math.randFloatSpread(20);
+
+    return tempPoint;
+  }
+
+  function getControlPoint1(centroid) {
+    var signY = Math.sign(centroid.y);
+
+    tempPoint.x = THREE.Math.randFloat(0.3, 0.6) * 50;
+    tempPoint.y = -signY * THREE.Math.randFloat(0.3, 0.6) * 70;
+    tempPoint.z = THREE.Math.randFloatSpread(20);
+
+    return tempPoint;
+  }
+
+  for (i = 0, i2 = 0, i3 = 0, i4 = 0; i < geometry.faceCount; i++, i2 += 6, i3 += 9, i4 += 12) {
+    var face = plane.faces[i];
+    var centroid = THREE.BAS.Utils.computeCentroid(plane, face);
+
+    // animation
+    var duration = THREE.Math.randFloat(minDuration, maxDuration);
+    var delayX = THREE.Math.mapLinear(centroid.x, -width * 0.5, width * 0.5, 0.0, maxDelayX);
+    var delayY;
+
+    if (animationPhase === 'in') {
+      delayY = THREE.Math.mapLinear(Math.abs(centroid.y), 0, height * 0.5, 0.0, maxDelayY)
+    }
+    else {
+      delayY = THREE.Math.mapLinear(Math.abs(centroid.y), 0, height * 0.5, maxDelayY, 0.0)
+    }
+
+    for (v = 0; v < 6; v += 2) {
+      aAnimation.array[i2 + v]     = delayX + delayY + (Math.random() * stretch * duration);
+      aAnimation.array[i2 + v + 1] = duration;
+    }
+
+    // positions
+
+    endPosition.copy(centroid);
+    startPosition.copy(centroid);
+
+    if (animationPhase === 'in') {
+      control0.copy(centroid).sub(getControlPoint0(centroid));
+      control1.copy(centroid).sub(getControlPoint1(centroid));
+    }
+    else { // out
+      control0.copy(centroid).add(getControlPoint0(centroid));
+      control1.copy(centroid).add(getControlPoint1(centroid));
+    }
+
+    for (v = 0; v < 9; v += 3) {
+      aStartPosition.array[i3 + v]     = startPosition.x;
+      aStartPosition.array[i3 + v + 1] = startPosition.y;
+      aStartPosition.array[i3 + v + 2] = startPosition.z;
+
+      aControl0.array[i3 + v]     = control0.x;
+      aControl0.array[i3 + v + 1] = control0.y;
+      aControl0.array[i3 + v + 2] = control0.z;
+
+      aControl1.array[i3 + v]     = control1.x;
+      aControl1.array[i3 + v + 1] = control1.y;
+      aControl1.array[i3 + v + 2] = control1.z;
+
+      aEndPosition.array[i3 + v]     = endPosition.x;
+      aEndPosition.array[i3 + v + 1] = endPosition.y;
+      aEndPosition.array[i3 + v + 2] = endPosition.z;
+    }
+  }
+
+  var material = new THREE.BAS.BasicAnimationMaterial(
+    {
+      shading: THREE.FlatShading,
+      side: THREE.DoubleSide,
+      uniforms: {
+        uTime: {type: 'f', value: 0}
+      },
+      shaderFunctions: [
+        THREE.BAS.ShaderChunk['cubic_bezier'],
+        //THREE.BAS.ShaderChunk[(animationPhase === 'in' ? 'ease_out_cubic' : 'ease_in_cubic')],
+        THREE.BAS.ShaderChunk['ease_in_out_cubic'],
+        THREE.BAS.ShaderChunk['quaternion_rotation']
+      ],
+      shaderParameters: [
+        'uniform float uTime;',
+        'attribute vec2 aAnimation;',
+        'attribute vec3 aStartPosition;',
+        'attribute vec3 aControl0;',
+        'attribute vec3 aControl1;',
+        'attribute vec3 aEndPosition;',
+      ],
+      shaderVertexInit: [
+        'float tDelay = aAnimation.x;',
+        'float tDuration = aAnimation.y;',
+        'float tTime = clamp(uTime - tDelay, 0.0, tDuration);',
+        'float tProgress = ease(tTime, 0.0, 1.0, tDuration);'
+        //'float tProgress = tTime / tDuration;'
+      ],
+      shaderTransformPosition: [
+        (animationPhase === 'in' ? 'transformed *= tProgress;' : 'transformed *= 1.0 - tProgress;'),
+        'transformed += cubicBezier(aStartPosition, aControl0, aControl1, aEndPosition, tProgress);'
+      ]
+    },
+    {
+      map: new THREE.Texture(),
+    }
+  );
+
+  THREE.Mesh.call(this, geometry, material);
+
+  this.frustumCulled = false;
+}
+Slide.prototype = Object.create(THREE.Mesh.prototype);
+Slide.prototype.constructor = Slide;
+Object.defineProperty(Slide.prototype, 'time', {
+  get: function () {
+    return this.material.uniforms['uTime'].value;
+  },
+  set: function (v) {
+    this.material.uniforms['uTime'].value = v;
+  }
+});
+
+Slide.prototype.setImage = function(image) {
+  this.material.uniforms.map.value.image = image;
+  this.material.uniforms.map.value.needsUpdate = true;
+};
+
+Slide.prototype.transition = function() {
+  return TweenMax.fromTo(this, 3.0, {time:0.0}, {time:this.totalDuration, ease:Power0.easeInOut});
+};
+
+
+function SlideGeometry(model) {
+  THREE.BAS.ModelBufferGeometry.call(this, model);
+}
+SlideGeometry.prototype = Object.create(THREE.BAS.ModelBufferGeometry.prototype);
+SlideGeometry.prototype.constructor = SlideGeometry;
+SlideGeometry.prototype.bufferPositions = function () {
+  var positionBuffer = this.createAttribute('position', 3).array;
+
+  for (var i = 0; i < this.faceCount; i++) {
+    var face = this.modelGeometry.faces[i];
+    var centroid = THREE.BAS.Utils.computeCentroid(this.modelGeometry, face);
+
+    var a = this.modelGeometry.vertices[face.a];
+    var b = this.modelGeometry.vertices[face.b];
+    var c = this.modelGeometry.vertices[face.c];
+
+    positionBuffer[face.a * 3]     = a.x - centroid.x;
+    positionBuffer[face.a * 3 + 1] = a.y - centroid.y;
+    positionBuffer[face.a * 3 + 2] = a.z - centroid.z;
+
+    positionBuffer[face.b * 3]     = b.x - centroid.x;
+    positionBuffer[face.b * 3 + 1] = b.y - centroid.y;
+    positionBuffer[face.b * 3 + 2] = b.z - centroid.z;
+
+    positionBuffer[face.c * 3]     = c.x - centroid.x;
+    positionBuffer[face.c * 3 + 1] = c.y - centroid.y;
+    positionBuffer[face.c * 3 + 2] = c.z - centroid.z;
+  }
+};
+
+
+function THREERoot(params) {
+  params = utils.extend({
+    fov: 60,
+    zNear: 10,
+    zFar: 100000,
+
+    createCameraControls: true
+  }, params);
+
+  this.renderer = new THREE.WebGLRenderer({
+    antialias: params.antialias,
+    alpha: true
+  });
+  this.renderer.setPixelRatio(Math.min(2, window.devicePixelRatio || 1));
+  document.getElementById('three-container').appendChild(this.renderer.domElement);
+
+  this.camera = new THREE.PerspectiveCamera(
+    params.fov,
+    window.innerWidth / window.innerHeight,
+    params.zNear,
+    params.zfar
+  );
+
+  this.scene = new THREE.Scene();
+
+  if (params.createCameraControls) {
+    this.controls = new THREE.OrbitControls(this.camera, this.renderer.domElement);
+  }
+
+  this.resize = this.resize.bind(this);
+  this.tick = this.tick.bind(this);
+
+  this.resize();
+  this.tick();
+
+  window.addEventListener('resize', this.resize, false);
+}
+THREERoot.prototype = {
+  tick: function () {
+    this.update();
+    this.render();
+    requestAnimationFrame(this.tick);
+  },
+  update: function () {
+    this.controls && this.controls.update();
+  },
+  render: function () {
+    this.renderer.render(this.scene, this.camera);
+  },
+  resize: function () {
+    this.camera.aspect = window.innerWidth / window.innerHeight;
+    this.camera.updateProjectionMatrix();
+
+    this.renderer.setSize(window.innerWidth, window.innerHeight);
+  }
+};
+
+////////////////////
+// UTILS
+////////////////////
+
+var utils = {
+  extend: function (dst, src) {
+    for (var key in src) {
+      dst[key] = src[key];
+    }
+
+    return dst;
+  },
+  randSign: function () {
+    return Math.random() > 0.5 ? 1 : -1;
+  },
+  ease: function (ease, t, b, c, d) {
+    return b + ease.getRatio(t / d) * c;
+  },
+  fibSpherePoint: (function () {
+    var vec = {x: 0, y: 0, z: 0};
+    var G = Math.PI * (3 - Math.sqrt(5));
+
+    return function (i, n, radius) {
+      var step = 2.0 / n;
+      var r, phi;
+
+      vec.y = i * step - 1 + (step * 0.5);
+      r = Math.sqrt(1 - vec.y * vec.y);
+      phi = i * G;
+      vec.x = Math.cos(phi) * r;
+      vec.z = Math.sin(phi) * r;
+
+      radius = radius || 1;
+
+      vec.x *= radius;
+      vec.y *= radius;
+      vec.z *= radius;
+
+      return vec;
+    }
+  })(),
+  spherePoint: (function () {
+    return function (u, v) {
+      u === undefined && (u = Math.random());
+      v === undefined && (v = Math.random());
+
+      var theta = 2 * Math.PI * u;
+      var phi = Math.acos(2 * v - 1);
+
+      var vec = {};
+      vec.x = (Math.sin(phi) * Math.cos(theta));
+      vec.y = (Math.sin(phi) * Math.sin(theta));
+      vec.z = (Math.cos(phi));
+
+      return vec;
+    }
+  })()
+};
+
+function createTweenScrubber(tween, seekSpeed) {
+  seekSpeed = seekSpeed || 0.001;
+
+  function stop() {
+    TweenMax.to(tween, 1, {timeScale:0});
+  }
+
+  function resume() {
+    TweenMax.to(tween, 1, {timeScale:1});
+  }
+
+  function seek(dx) {
+    var progress = tween.progress();
+    var p = THREE.Math.clamp((progress + (dx * seekSpeed)), 0, 1);
+
+    tween.progress(p);
+  }
+
+  var _cx = 0;
+
+  // desktop
+  var mouseDown = false;
+  document.body.style.cursor = 'pointer';
+
+  window.addEventListener('mousedown', function(e) {
+    mouseDown = true;
+    document.body.style.cursor = 'ew-resize';
+    _cx = e.clientX;
+    stop();
+  });
+  window.addEventListener('mouseup', function(e) {
+    mouseDown = false;
+    document.body.style.cursor = 'pointer';
+    resume();
+  });
+  window.addEventListener('mousemove', function(e) {
+    if (mouseDown === true) {
+      var cx = e.clientX;
+      var dx = cx - _cx;
+      _cx = cx;
+
+      seek(dx);
+    }
+  });
+  // mobile
+  window.addEventListener('touchstart', function(e) {
+    _cx = e.touches[0].clientX;
+    stop();
+    e.preventDefault();
+  });
+  window.addEventListener('touchend', function(e) {
+    resume();
+    e.preventDefault();
+  });
+  window.addEventListener('touchmove', function(e) {
+    var cx = e.touches[0].clientX;
+    var dx = cx - _cx;
+    _cx = cx;
+
+    seek(dx);
+    e.preventDefault();
+  });
+}
